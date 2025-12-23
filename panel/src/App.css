@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Yekan';
+  src: url('./assets/Yekan\ Bakh\ Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.scroll-hidden::-webkit-scrollbar {
+  display: none;
+}
+.MuiButtonBase-root {
+  font-family: "Yekan" !important;
+}
+.MuiFormLabel-root {
+  font-family: "Yekan" !important;
+}
